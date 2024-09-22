@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Banner Image](https://github.com/AHSANATIQ98/AHSANATIQ98/blob/main/banner.png)
+
 I am Muhammad Ahsan Atiq, currently studying Data Science at COMSATS University Islamabad.
 
 - 🔭 I’m currently working on AI, ML, and Data Science projects.
