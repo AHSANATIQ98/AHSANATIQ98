@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Banner Image](https://github.com/AHSANATIQ98/AHSANATIQ98/blob/main/banner.png)
+![Banner Image](https://github.com/AHSANATIQ98/AHSANATIQ98/blob/main/banner.png.png)
+
 
 I am Muhammad Ahsan Atiq, currently studying Data Science at COMSATS University Islamabad.
 
