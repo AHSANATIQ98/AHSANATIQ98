@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋, I am Ahsan
+#### Data Scientist and ML Engineer
+![Data Scientist and ML Engineer](https://media.licdn.com/dms/image/v2/D4D16AQFZbJnkvcR-lw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724424636593?e=1732752000&v=beta&t=uGyZ2QI6sX8NQgS79TK5TQQ5CQXvqNBpvYmTzUiHRRI)
 
-![Banner Image](https://github.com/AHSANATIQ98/AHSANATIQ98/blob/main/banner.png.png)
+I'm Muhammad Ahsan, a data scientist with a strong foundation in data analysis and machine learning. Currently pursuing my undergraduate degree in Data Science at COMSATS University Islamabad, I’m passionate about leveraging data to solve real-world problems.
 
 
-I am Muhammad Ahsan Atiq, currently studying Data Science at COMSATS University Islamabad.
+Skills: Python / R / Tableau / SQL / Excel
 
-- 🔭 I’m currently working on AI, ML, and Data Science projects.
-- 🌱 I’m currently learning advanced Python, machine learning, and AI techniques.
-- 👯 I’m looking to collaborate on AI, ML, and Data Science projects (feel free to reach out if you're interested).
-- 🤔 I’m looking for help with AI, ML, and Data Science concepts and Python projects.
-- 📫 How to reach me: [ahsanatiq789@gemail.com](mailto:sp24-bds-028@isbstudent.comsats.edu.pk)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a data geek who loves connecting the dots with code!
+- 🔭 I’m currently working on My own Company 
+- 🌱 I’m currently learning Data Science and Machine Learning 
+- 👯 I’m looking to collaborate on Python and ML libaries 
+- 📫 How to reach me: ahsanatiq789@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact:  I'm a data geek who loves connecting the dots with code! 
 
-Thanks for visiting my profile!
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AHSANATIQ98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-ahsan-atiq-2a33982a3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AHSANATIQ98)  
+
