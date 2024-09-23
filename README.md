@@ -4,6 +4,8 @@
 
 I'm Muhammad Ahsan, a data scientist with a strong foundation in data analysis and machine learning. Currently pursuing my undergraduate degree in Data Science at COMSATS University Islamabad, I’m passionate about leveraging data to solve real-world problems.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHSANATIQ98)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Skills: Python / R / Tableau / SQL / Excel
 
