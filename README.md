@@ -1,6 +1,8 @@
-### Hi there 👋, I am Ahsan
-#### Data Scientist and ML Engineer
+
 ![Data Scientist and ML Engineer](https://media.licdn.com/dms/image/v2/D4D16AQFZbJnkvcR-lw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724424636593?e=1732752000&v=beta&t=uGyZ2QI6sX8NQgS79TK5TQQ5CQXvqNBpvYmTzUiHRRI)
+
+  ## Hi there 👋, I am Ahsan
+#### Data Scientist and ML Engineer
 
 I'm Muhammad Ahsan, a data scientist with a strong foundation in data analysis and machine learning. Currently pursuing my undergraduate degree in Data Science at COMSATS University Islamabad, I’m passionate about leveraging data to solve real-world problems.
 
