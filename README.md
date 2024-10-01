@@ -19,6 +19,12 @@ Skills: Machine Learning / Python / R / Tableau / SQL / Excel
 - ⚡ Fun fact:  I'm a data geek who loves connecting the dots with code!
 
 
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 <h3 align="left">Skills</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
