@@ -19,6 +19,8 @@ Skills: Machine Learning / Python / R / Tableau / SQL / Excel
 - ⚡ Fun fact:  I'm a data geek who loves connecting the dots with code!
 
 
+![Muhammad Ahsan Atiq Badge Contributor GSSoC 2024](https://raw.githubusercontent.com/yourusername/your-repo-name/main/Muhammad_Ahsan_Atiq_Badge_Contributor_GSSoC2024-Extd%20(1).png)
+
 
 
 <h3 align="left">Skills</h3>
