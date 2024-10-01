@@ -18,7 +18,7 @@ Skills: Machine Learning / Python / R / Tableau / SQL / Excel
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact:  I'm a data geek who loves connecting the dots with code!
 
-
+<h3 align="left">Badges</h3>
 <img src="https://raw.githubusercontent.com/AHSANATIQ98/AHSANATIQ98/main/Muhammad_Ahsan_Atiq_Badge_Contributor_GSSoC2024-Extd%20(1).png" alt="Muhammad Ahsan Atiq Badge Contributor GSSoC 2024" width="100" />
 
 
